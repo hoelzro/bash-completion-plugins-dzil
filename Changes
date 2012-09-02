@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+     - Fix should_activate.
 
 0.01 September 03 2012
      - Initial release.
