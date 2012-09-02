@@ -28,4 +28,16 @@ L<Bash::Completion> support for L<Dist::Zilla>.
 
 L<Bash::Completion>, L<Dist::Zilla>
 
+=begin comment
+
+=over
+
+=item should_complete
+
+=item command_class
+
+=back
+
+=end comment
+
 =cut
