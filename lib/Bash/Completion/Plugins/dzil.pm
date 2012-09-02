@@ -18,14 +18,14 @@ sub command_class { 'Dist::Zilla::App' }
 
 __END__
 
-# ABSTRACT: A short description of Bash::Completion::Plugins::dzil
-
-=head1 SYNOPSIS
+# ABSTRACT: Bash::Completion support for Dist::Zilla
 
 =head1 DESCRIPTION
 
-=head1 FUNCTIONS
+L<Bash::Completion> support for L<Dist::Zilla>.
 
 =head1 SEE ALSO
+
+L<Bash::Completion>, L<Dist::Zilla>
 
 =cut
