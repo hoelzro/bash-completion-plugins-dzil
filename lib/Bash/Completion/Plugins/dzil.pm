@@ -8,7 +8,7 @@ use parent 'Bash::Completion::Plugins::App::Cmd';
 
 use Bash::Completion::Utils qw(command_in_path);
 
-sub should_complete {
+sub should_activate {
     return [ grep { command_in_path($_) } qw(dzil) ];
 }
 
@@ -32,7 +32,7 @@ L<Bash::Completion>, L<Dist::Zilla>
 
 =over
 
-=item should_complete
+=item should_activate
 
 =item command_class
 

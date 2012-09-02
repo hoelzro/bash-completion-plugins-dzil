@@ -20,7 +20,7 @@ L<Bash::Completion>, L<Dist::Zilla>
 
 =over
 
-=item should_complete
+=item should_activate
 
 =item command_class
 
